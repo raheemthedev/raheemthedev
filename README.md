@@ -7,5 +7,5 @@
 - 📫 How to reach me: animashaunraheem05@gmail.com 08078888476
 - 😄 Pronouns: he/him
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=raheemthedev)
+![Github stats](https://github-readme-stats.vercel.app/api?username=raheemthedev) <br/>
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raheemthedev&repo=space_tourism)
