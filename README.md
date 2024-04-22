@@ -7,3 +7,4 @@
 - 📫 How to reach me: animashaunraheem05@gmail.com
 - 😄 Pronouns: he/him
 
+![Github stats](https://github-readme-stats.vercel.app/api?raheemthedev=yourGithubUsername)
